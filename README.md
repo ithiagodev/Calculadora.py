@@ -20,8 +20,6 @@ pip install -r requirements.txt
 ## **Estrutura dos Arquivos**
 1. **Script Principal (`calculadora.py`)**:  
    Arquivo responsável por iniciar a interface gráfica da calculadora. Contém a lógica de exibição dos botões e a interação com o usuário para realizar os cálculos.
-2. **Arquivo `requirements.txt`**:  
-   Contém as bibliotecas necessárias para rodar o projeto.
 
 ## **Como Executar**
 1. **Rodando a Calculadora**:  
